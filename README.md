@@ -1,4 +1,11 @@
-## Hi there 👋
+## ## 👋 ¡Hola! Soy Alejandro 👨‍💻 alias "Bachilasio" 
+
+🎓 Actualmente estudio Ingeniería en Informática.
+
+Me apasiona aprender constantemente y construir soluciones que puedan impactar positivamente el mundo digital. 🚀
+
+> "Primero se sueña, luego se construye." 💡
+
 
 <!--
 **Bachilasio/Bachilasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
